@@ -4,6 +4,9 @@ package hr.ericsson.utils;
 import java.io.File;
 import java.io.FileInputStream;
 
+
+
+//Ovo je komentar koji bi trebao biti samo na novoj grani. Ne na masteru.
 public class Props extends java.util.Properties {
 	private static Props instance;
 
